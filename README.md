@@ -1,5 +1,7 @@
 # 🛫 A320 Cockpit – Home Built Overhead Panel
 🔹 Panel lit up
+
+
 <img src="JPG/3.jpg" width="350"/>
 
 This is my personal DIY project to build a realistic Airbus A320 FWD Overhead Panel using:
@@ -10,6 +12,11 @@ This is my personal DIY project to build a realistic Airbus A320 FWD Overhead Pa
 - 🧠 **Multiplexers (CD74HC4067) for input expansion**
 
 ---
+
+
+<img src="JPG/1.jpg" width="500"/>
+
+
 
 ## ✨ Features
 
