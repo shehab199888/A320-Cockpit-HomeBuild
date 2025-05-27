@@ -28,6 +28,12 @@ This is my personal DIY project to build a realistic Airbus A320 FWD Overhead Pa
 ✅ Over 300 wires hand-routed 😅  
 ✅ All done without a laser cutter — 100% 3D printed!
 
+
+
+
+
+<img src="JPG/2.jpg" width="350"/>
+
 ---
 
 ## 📂 Repository Contents
