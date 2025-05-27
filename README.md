@@ -1,6 +1,10 @@
 # 🛫 A320 Cockpit – Home Built Overhead Panel
 🔹 Panel lit up
 ![Backlit panel](JPG/1.jpg)
+<h3>🔹 Overhead Build Progress</h3>
+<img src="JPG/1.jpg" width="350"/>
+<img src="JPG/1.jpg" width="350"/>
+
 This is my personal DIY project to build a realistic Airbus A320 FWD Overhead Panel using:
 - 🔧 **3D printing** (Bambu Lab A1 Combo with multi-color)
 - 🔌 **Arduino Mega + MobiFlight**
