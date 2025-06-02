@@ -32,7 +32,7 @@ This is my personal DIY project to build a realistic Airbus A320 FWD Overhead Pa
 
 
 
-<img src="JPG/2.jpg" width="350"/>
+<img src="JPG/20250601_165827.jpg" width="350"/>
 
 ---
 
